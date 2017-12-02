@@ -3,7 +3,8 @@
 Add your Github account to this repo 
 - fork this repo
 - clone it to your machine
-- edit the readme and add your Github account to the bottom of the README 
+- create a new file with your name
+- add your Github username to the bottom of the README 
 - commit the changes 
 - push the changes
 - do a pull request
